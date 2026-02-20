@@ -1,2 +1,1 @@
-# NextPrismaTemplate
-a simple Nextjs x Prisma template to get started
+Various Project templates to get started quickly
